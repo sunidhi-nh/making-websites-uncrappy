@@ -1,4 +1,4 @@
-# Brandkit // making-websites-uncrappy
+# Brandkit - Making websites uncrappy
 
 A quirky, immersive, and brand-forward **Brand Identity Builder** that spins up full UX brand books and live editable website mockups in seconds. No boring slides, no overpriced agencies, no endless alignment meetings. Just pure vibes and instant pixels.
 
@@ -64,3 +64,5 @@ Once you compile an identity, the Spec Panel provides direct actions:
 2.  **Copy SVG Code:** Copies the raw XML source code of the logo to your clipboard.
 3.  **Download Brandbook (JSON):** Generates a JSON manifest file listing all color hex values, fonts, and slogans.
 4.  **Copy CSS Custom Variables:** Instantly copies ready-to-use `:root { --brand-primary: ... }` variables to copy-paste into your own web projects.
+
+**Built by - Sunidhi N**
